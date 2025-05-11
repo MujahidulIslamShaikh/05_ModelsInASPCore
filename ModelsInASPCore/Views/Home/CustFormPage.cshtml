@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "CustFormPage";
+    // var cust_info = (List<string>)ViewData["cust_info"];
+}
+
+<h1>CustFormPage</h1>
+
+<table>
+    <tr>
+        <th>rollNo</th>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Standard</th>
+    </tr>
+    @foreach (var item in (List<CustomerInfoModel>)ViewData["cust_info"])
+    {
+        <tr>
+            <td>@item.custId</td>
+            <td>@item.custName</td>
+            <td>@item.custCity</td>
+            <td>@item.custContNum</td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\repository\\studentrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\repository\\studentrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\repository\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\home\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\home\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\models\\customerinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\models\\customerinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\home\\custformpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\home\\custformpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|c:\\users\\name\\source\\repos\\05_modelsinaspcore\\modelsinaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AC10C0-AADF-4F8B-B3A7-7ACD5C992BAC}|ModelsInASPCore\\ModelsInASPCore.csproj|solutionrelative:modelsinaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:17:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:17:00.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:16:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:38:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRespository.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Repository\\StudentRespository.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Repository\\StudentRespository.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Repository\\StudentRespository.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Repository\\StudentRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:32:57.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Repository\\IStudent.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Repository\\IStudent.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Repository\\IStudent.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Repository\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:32:55.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "getAllStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\getAllStudents.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\Home\\getAllStudents.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\getAllStudents.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\Home\\getAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T16:08:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\appsettings.json",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\appsettings.json",
+              "RelativeToolTip": "ModelsInASPCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T16:11:53.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\StudentModel.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:36:20.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\CustomerInfoModel.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Models\\CustomerInfoModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\CustomerInfoModel.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Models\\CustomerInfoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:50:11.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustFormPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\CustFormPage.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\Home\\CustFormPage.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\CustFormPage.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\Home\\CustFormPage.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T12:54:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelsInASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T01:38:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T02:02:51.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Program.cs",
+              "RelativeDocumentMoniker": "ModelsInASPCore\\Program.cs",
+              "ToolTip": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\Program.cs",
+              "RelativeToolTip": "ModelsInASPCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T01:56:33.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

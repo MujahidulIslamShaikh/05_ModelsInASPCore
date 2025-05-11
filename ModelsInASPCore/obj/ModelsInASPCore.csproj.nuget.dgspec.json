@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\name\\source\\repos\\ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj": {}
+    "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\name\\source\\repos\\ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj": {
+    "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\name\\source\\repos\\ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj",
+        "projectUniqueName": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj",
         "projectName": "ModelsInASPCore",
-        "projectPath": "C:\\Users\\name\\source\\repos\\ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj",
+        "projectPath": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\ModelsInASPCore.csproj",
         "packagesPath": "C:\\Users\\name\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\name\\source\\repos\\ModelsInASPCore\\ModelsInASPCore\\obj\\",
+        "outputPath": "C:\\Users\\name\\source\\repos\\05_ModelsInASPCore\\ModelsInASPCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

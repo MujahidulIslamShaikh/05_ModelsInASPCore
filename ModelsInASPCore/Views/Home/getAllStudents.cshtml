@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "getAllStudents";
+    // var studetns = ViewData["all_stud_data"] as List<StudentModel>;
+
+
+}
+
+<h1>getAllStudents</h1>
+
+
+<table>
+    <tr>
+        <td>rollno</td>
+        <td>name</td>
+        <td>gender</td>
+        <td>stand</td>
+    </tr>
+    @if ((List<StudentModel>)ViewData["all_stud_data"] != null)
+    {
+        foreach (var item in (List<StudentModel>)ViewData["all_stud_data"])
+        {
+            <tr>
+                <td>@item.rollNo</td>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.Standard</td>
+            </tr>
+        }
+    } else
+    {
+        <p>STUDENT DATA NOT FOUND</p>
+    }
+</table>
+
+
+
+
